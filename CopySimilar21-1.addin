@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>CopySame</Name>
+    <Assembly>./RevitAPI123CopySimilar.dll</Assembly>
+    <AddInId>604b1052-f742-1231-8576-c261d1994208</AddInId>
+    <FullClassName>RevitAPI123CopySimilar.CsCopySimilarAddPanel</FullClassName>
+    <VendorId>API-123</VendorId>
+    <VendorDescription>API-123</VendorDescription>
+  </AddIn>
+</RevitAddIns>
